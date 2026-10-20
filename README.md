@@ -70,6 +70,19 @@
 
 I'm building my understanding of cloud architecture, IAM, networking, containers, object storage, logging, and monitoring through project work. AWS services in my project plans are labelled as planned until they've been deployed and verified.
 
+## 🏅 Certifications & Professional Learning
+
+These credentials are listed on my [LinkedIn profile](https://www.linkedin.com/in/kwanda-ntsaluba/details/certifications/). Visit LinkedIn to view any available credential verification links.
+
+| Certification | Issuer | Issued | Credential details |
+|---|---|---|---|
+| [AWS Educate Introduction to Cloud 101 — Training Badge](https://www.linkedin.com/in/kwanda-ntsaluba/details/certifications/) | Amazon Web Services (AWS) | Aug 2026 | Training badge |
+| [GenAI Course for Professionals](https://www.linkedin.com/in/kwanda-ntsaluba/details/certifications/) | WeThinkCode_ | Apr 2026 | Credential ID listed on LinkedIn: `WeThinkCode_ GenAI Course for Professionals` |
+| [Generative AI Course for Software Engineers](https://www.linkedin.com/in/kwanda-ntsaluba/details/certifications/) | WeThinkCode_ | Apr 2026 | Credential ID listed on LinkedIn: `WeThinkCode_ GenAI Course for Software Engineers` |
+| [Advanced Commands in Linux](https://www.linkedin.com/in/kwanda-ntsaluba/details/certifications/) | Coursera | Jan 2026 | Credential ID: `MKZD72JD8A1J` |
+
+> **Note:** AWS Educate Introduction to Cloud 101 is a training badge, not an AWS professional certification.
+
 ## 🌟 Featured Projects
 
 ### 🔹 [WTC WorkHub](https://github.com/Majivana/WTC_Workhub)
