@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Kwanda Ntsaluba!</h1>
+<h1 align="center">👋 Hey, I'm Kwanda!</h1>
 
 <h3 align="center">💻 Junior Software Engineer | Backend & Full-Stack Development</h3>
 
@@ -12,7 +12,7 @@
 
 👨🏽‍💻 I'm an early-career software engineer who enjoys building practical applications and understanding how they work end to end — from data models and APIs to user experience, testing, and deployment.
 
-🎯 I'm especially interested in **Java, backend development, APIs, and full-stack systems**.
+🎯 I'm especially interested in **Java,Python, backend development, APIs, and full-stack systems**.
 
 🧑🏽‍🏫 As a **Peer Tutor at WeThinkCode_**, I facilitated workshops, supported code reviews, and helped fellow students work through technical challenges. That experience strengthened my communication, collaboration, and problem-solving skills.
 
