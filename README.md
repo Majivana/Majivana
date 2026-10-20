@@ -98,10 +98,11 @@ An operator-focused solar fleet management application with site and project wor
 **Focus:** Java · Spring Boot · PostgreSQL · Flyway · Docker · API design · application security  
 **Status:** Manufacturer integrations are not configured. Synthetic demo data is identified as demo data in the project.
 
-### 🔹 [Robot Worlds — Brownfields Project](https://github.com/Majivana/brownfields_robot_worlds_)
-A collaborative Java client-server simulation where robot clients interact with a shared 2D world. The project explores object-oriented design, TCP socket communication, JSON protocol messaging, REST endpoints, persistence, and automated build/test workflows.
+### 🔹 [Khwalo Funeral Services](https://github.com/Majivana/Khwalo-Funeral-Services)
+A responsive funeral-services website for Eastern Cape communities, showcasing funeral plans, service information, branch locations, and contact options through a branded, mobile-friendly interface.
 
-**Focus:** Java · Maven · networking · JSON · REST · testing · Docker · GitLab CI
+**Focus:** HTML · CSS · JavaScript · Bootstrap · responsive UI · interactive navigation and carousels · form validation · SEO metadata  
+**Status:** The contact form currently validates input and simulates submission in the browser; a backend service is not shown in the repository.
 
 ### 🔹 [Ngqamakwe Luxury Guest House](https://github.com/Majivana/Nqamakwe-Luxury-Guesthouse-and-Conference-Centre)
 A full-stack hospitality application with a Node.js/Express API, SQLite persistence, booking and inventory workflows, staff operations, guest notifications, and a hosted-payment integration boundary.
